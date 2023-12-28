@@ -10,7 +10,7 @@ For each problem, set the corresponding folder as the working directory, and run
 The codes are not optimized for best performance.
 
 ## Citation
-Please cite the following paper if you find the algorithm helps your research
+Please cite the following paper if the algorithm helps your research
 ```
 @article{PhysRevE.106.L042301,
   title = {Bilevel optimization in flow networks: A message-passing approach},
