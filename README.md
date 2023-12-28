@@ -11,6 +11,7 @@ The codes are not optimized for best performance.
 
 ## Citation
 Please cite the following paper if you find the algorithm helps your research
+```
 @article{PhysRevE.106.L042301,
   title = {Bilevel optimization in flow networks: A message-passing approach},
   author = {Li, Bo and Saad, David and Yeung, Chi Ho},
@@ -25,3 +26,4 @@ Please cite the following paper if you find the algorithm helps your research
   doi = {10.1103/PhysRevE.106.L042301},
   url = {https://link.aps.org/doi/10.1103/PhysRevE.106.L042301}
 }
+```
